@@ -4,7 +4,6 @@ int add(int num_1, int num_2);
 int addl(int num, int prev);
 int sb(int num_1, int num_2);
 int sbl(int num, int prev);
-int rp(int i);
 
 const int COUNT = 6;
 
